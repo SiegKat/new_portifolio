@@ -129,12 +129,6 @@ O projeto está configurado para deploy estático. A pasta `dist/` contém todos
 - **Structured Data**: Marcação semântica
 - **Sitemap**: Estrutura clara para indexação
 
-## 📞 Contato
-
-- **Email**: thiago.sieg@example.com
-- **LinkedIn**: [linkedin.com/in/thiagosieg](https://linkedin.com/in/thiagosieg)
-- **GitHub**: [github.com/thiagosieg](https://github.com/thiagosieg)
-
 ---
 
 Desenvolvido com ❤️ usando React, TypeScript e Tailwind CSS
